@@ -1,0 +1,21 @@
+.header h1 {
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  max-width: 5em;
+  margin: auto auto 0.5em auto;
+  padding: 0.2em;
+  border-radius: 0.3em;
+}
+
+.pokemon-box {
+  display: flex; flex-direction: column; align-items: center;
+}
+
+.pokemon-box-2 {
+  background-color: #9E9E9E; max-width: 200px; border-radius: 5px; text-align: center; color: #fff;
+}
+
+.pokemon-box-2 img {
+  width: 150px; height: 150px;
+}
